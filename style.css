@@ -1,23 +1,16 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
 h1
 {
-    color: orange;
-    text-align: center;
-    border: solid;
-    border-color: black;
-    width: 75%;
-    font-weight: 500;
-    text-decoration: line-through;
-    text-decoration: red underline;
-    text-decoration: wavy overline;
+    color: #1b74e4;
 }
-button
+#searchbtn
 {
-    background-color: blue;
     color: white;
-    text-align: center;
-}
-p
-{
     background-color: black;
-    color: white;
+}
+.userbtn
+{
+    background-color: aqua;
 }
