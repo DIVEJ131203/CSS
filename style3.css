@@ -1,0 +1,17 @@
+div
+{
+    height: 100px;
+    width: 700px;
+    border-radius: 5px;
+    border-width: 6px;
+    border-color: blue;
+    border-style: ridge;
+    border-left-style:dashed ;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    display: inline;
+}

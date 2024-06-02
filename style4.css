@@ -1,0 +1,33 @@
+#outer
+{
+    background-color: grey;
+    border-style:solid;
+    border-color:black ;
+    border-width: 8px;
+    height: 500px;
+    width: 150px;
+}
+.inner
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style:solid;
+    border-color:black ;
+    border-width: 8px;
+    border-radius: 50%;
+    height: 120px;
+}
+#div1
+{
+    background-color: red;
+}
+#div2
+{
+    background-color: rgb(224, 224, 22);
+}
+
+#div3
+{
+    background-color: green;
+}
